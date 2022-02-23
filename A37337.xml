@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wee under-subscribers masters and professors in the Colledge of New-Aberdeen, are constrained by pressing necessity to give this candid declaration of the low condition of this famous seminary wherein we bear charge</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37337</idno>
+            <idno type="STC">Wing D564</idno>
+            <idno type="STC">ESTC R41084</idno>
+            <idno type="EEBO-CITATION">19618086</idno>
+            <idno type="OCLC">ocm 19618086</idno>
+            <idno type="VID">109200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109200)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wee under-subscribers masters and professors in the Colledge of New-Aberdeen, are constrained by pressing necessity to give this candid declaration of the low condition of this famous seminary wherein we bear charge</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title supplied by Wing: A Declaration by the masters and professors of New Aberdeen.</note>
+                  <note>"Given at our colledge Marischall in New Aberdeen, the 7th. of Febr. 1660."</note>
+                  <note>Imperfect: creased.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marischal College and University</term>
+               <term>Educational fund raising --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:109200:1"/>
+            <!-- PDF PAGE 4 -->
+            <p>WEE Vnder-Subſcribers <hi>Maſters</hi> and <hi>Profeſſors</hi> in the Colledge of <hi>New-Aberdeen,</hi> are conſtrained by preſſing Neceſſity to give this Candid Declaration of the low Condition of this Famous Seminary wherein we bear charge. It hath pleaſed the Lord ſo to bleſse this Houſe both in our time and in the time of our Predeceſſors, that as eminent men, yea and renowned at home and abroad for Godlines and Learning, and that in all Sciences and Profeſſions have ſprung out hence as this Nation hath afforded. But we can hardly look upon our ſcurvy and ruinous Edifices without weeping, we having neither Houſes fitted for our publick Actions and Commencements, nor for Aeconomy, neither for the Accommodations of Students. And the poor Cottages we have are quite ruinous and that by many ſad accidents, as by Fire, which conſumed a quarter of the whole building, the riſe whereof is not known to this day, ſo that all ſtrangers, whom the ſame of this Houſe drawes hither to viſit us, condole and compaſſionate our Condition; That a Seminary ſo eminently bleſſed of God, ſhould have ſo bad Accomodation, and theſe which we have threatning preſent ruin. Wee can hradly expreſs how irkſome it is to us, to publiſh our Indigencies abroad, but we might juſtly be judged acceſsory to the ruin of this Houſe, if we ſhould not repreſent the low Eſtate thereof, before the lovers of Godli<g ref="char:EOLhyphen"/>neſs and Learning, whoſe bowells we doubt not, will be moved with compaſſion towards ſo Famous and fertile, but now a periſhing Nurſery of both. Wherefore we have Commiſſionated the Reverend Bearer, Mr. <hi>Alexander White,</hi> one of our number to goe through the moſt eminent places of this Iland, and to give a more full account of the languiſhing Condition or our Famous Colledge, then in ſuch a line can be expected from us. And if the Lord ſhall encline the hearts of thoſe, who tender the flouriſhing of Holineſs and Learning, to contribute for the building of an Edifice amongſt us, for the accommodation of our Students, though our Colledge hath no publick Revenewes, beſides the petty Salaries of the <hi>Maſters,</hi> yet all who have Char<g ref="char:EOLhyphen"/>ges, reſolve to abridge themſelves in their own Emoluments, to promote the work. We are not in any capacity to promiſe retribution to thoſe who ſhall hearken to this our requeſt, but good works of this Nature, when ſincerely performed, have a reward in their boſome: Yet if any oppertunity ſhall offer, to doe any office to Them or Theirs; we ſhall not be forgetfull of their beneficence, and in the meane while they ſhall be had in gratefull remembrance amongſt the Publick Benefactors of our Colledge.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Mr. <hi>Will. Moir</hi> Principall.</item>
+                     <item>Mr. <hi>John Menȝeis.</hi> Profeſsor of Divinity.</item>
+                     <item>Dr. <hi>Will. Moir</hi> Profeſsor of Medicine.</item>
+                     <item>Mr. <hi>Rob. Forbes</hi> Profeſsor of Philoſophy.</item>
+                     <item>Mr. <hi>Joh. Forbes</hi> P. P.</item>
+                     <item>Mr. <hi>Will. Meldrum</hi> P. P.</item>
+                     <item>Mr. <hi>G. White</hi> Profeſsor of Humanity.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>WEE being neceſſitated to call home our Commiſſioner Mr. <hi>Alexander White</hi> to attend his charge amongſt us before he could fully accompliſh the buſineſs for which he was commiſſionated, have therefore thought fit to appoint, and doe by theſe preſents impower and intruſt our Worthy and well beloved friend <hi>Laurence Mercer</hi> Marchant, now reſideing at <hi>London</hi> to proſecute our above-written Commiſſion and Sup<g ref="char:EOLhyphen"/>plication: and doe devolvefull Power and Right on him to Act in all things that may conduce for the advantage of the buſineſs. And in particular that he may receive what Charitable Contributions of moneyes the Lord ſhall be pleaſed to enlarge the hearts of any to bes;tow in a matter of ſuch publick con<g ref="char:EOLhyphen"/>cernment. This we have given under our Hand and Seal.</p>
+            <closer>
+               <dateline>Given at our Colledge Mariſchall in <hi>New Aberdeen,</hi> 
+                  <date>the 7<hi>th,</hi> of <hi>Febr,</hi> 1660.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Mr. <hi>Will. Moir.</hi> Principall.</item>
+                     <item>Mr. <hi>John Menȝeis,</hi> Profeſsor of Divinity.</item>
+                     <item>Dr. <hi>Will. Moir,</hi> Profeſsor of Medicine.</item>
+                     <item>Mr. <hi>Rob. Forbes</hi> Profeſsor of Philoſophy.</item>
+                     <item>Mr. <hi>John Forbes,</hi> P. P.</item>
+                     <item>Mr. <hi>Will. Meldrum,</hi> P. P.</item>
+                     <item>Mr. <hi>G. White,</hi> Profeſsor of Humanity.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>At a Meeting of the <hi>Deligates</hi> of the <hi>Vniverſity</hi> of <hi>Oxon,</hi> 
+                  <date>May 23.1660.</date>
+               </dateline>
+            </opener>
+            <p>WHereas the Colledge of the Vniverſity of <hi>New Aberdeen</hi> in <hi>Scotland,</hi> having ſuffered great damage by Fire, and the Building which remaines is ſo Ruinous, that there is no conveniency and accommodation for Students, nor for the performing of their Acts and Commencements. <hi>A</hi> cer<g ref="char:EOLhyphen"/>tificate whereof under the Seal of the ſaid Colledge ſubſcribed by the Profeſsors and other Members thereof hath been brought to this Vniverſity, de<g ref="char:EOLhyphen"/>ſiring a Charitable Contribution to be made toward the rebuilding of the ſaid Colledge: The <hi>Delegates</hi> of the <hi>Vniverſity</hi> of <hi>Oxon,</hi> ſeriouſly weighing the Premiſses, did think fit in an eſpeciall manner to recommend the deſires of that Vniverſity, to the ſeverall Colledges and Halls in this Vniverſity, deſiring the Heads in their reſpective Houſes effectually to promote ſo good and charitable a worke.</p>
+            <closer>
+               <signed>
+                  <hi>Ben. Cooper,</hi> Regiſtrarius Vniverſitotis <hi>Oxon.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
